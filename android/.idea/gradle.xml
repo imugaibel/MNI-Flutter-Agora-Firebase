@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/agora_rtc_engine-1.0.15/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/agora_rtm-0.9.14/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.7/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.16.1/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_background-1.0.2+2/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.9/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.7/android" />
+            <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.1.4+2/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
