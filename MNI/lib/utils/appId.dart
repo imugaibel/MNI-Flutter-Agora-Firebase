@@ -1,2 +1,0 @@
-const appId = '122138f4ec224d85a374389f6c3fafeb';
-const token='006122138f4ec224d85a374389f6c3fafebIACafulcDTV0R+ju+iqz54XyEmxPbhIF6NnzhTf7gFBoynxML34AAAAAEAB6IwtSvfNQYQEAAQC681Bh';
