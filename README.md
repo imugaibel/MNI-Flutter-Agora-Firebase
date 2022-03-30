@@ -5,13 +5,5 @@ Flutter Firebase Agora
 Food Ui 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="مشاري-سليمان-279545224" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sa.linkedin.com/in/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-279545224?trk=profile-badge">مشاري سليمان</a></div>
+              
